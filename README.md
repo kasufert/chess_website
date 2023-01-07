@@ -1,3 +1,3 @@
 Chess Website
 
-Jack Simunic, Aidan Sunahara, Jose Aguillon
+Jack Simunic, Aidan Sunahara, Jose Aguillon Brian Loewe
